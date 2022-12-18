@@ -1,0 +1,11 @@
+{
+  "name": "plotly.js-dist",
+  "version": "2.16.5",
+  "license": "MIT",
+  "main": "plotly.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "plotly.js"
+  ]
+}
